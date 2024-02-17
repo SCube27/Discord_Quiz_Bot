@@ -1,0 +1,17 @@
+{
+  "name": "discord_quiz_bot",
+  "version": "1.0.0",
+  "description": "A simple Discord Quiz Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahil Shah",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.4",
+    "nodemon": "^3.0.3"
+  },
+  "type": "module"
+}
